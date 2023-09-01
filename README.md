@@ -1,1 +1,1 @@
-# projects
+# customer segmentation
